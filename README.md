@@ -1,6 +1,6 @@
 ### Hi there 👋, Hasibullah Fathi
 #### Data Scientist/Practitioner
-![Data Scientist/Practitioner](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Data Scientist/Practitioner]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/HasibullahFathi/HasibullahFathi/blob/main/banner.webp))
 
 Hasibullah Fathi from Germany, I’m a full stack developer, data scientist passionate about turning data into actionable insights and solving complex problems through machine learning and predictive analytics. I enjoy experimenting with technologies to build impactful applications, and I love working on projects that bridge the gap between advanced analytics and real-world applications. When I’m not coding, you might find me exploring the latest advancements in AI or engaging with the tech community to expand my skills.
 

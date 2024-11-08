@@ -6,7 +6,7 @@ Hasibullah Fathi from Germany, I’m a full stack developer, data scientist pass
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasibullahfathi&label=Profile%20views&color=0e75b6&style=flat" alt="hasibullahfathi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasibullahfathi" alt="hasibullahfathi" /></a> </p>
+<p align="left"> <a href="https://github.com/hasibullahfathi/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasibullahfathi" alt="hasibullahfathi" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/HasibullahFathi](https://github.com/HasibullahFathi)
 
@@ -14,9 +14,9 @@ Hasibullah Fathi from Germany, I’m a full stack developer, data scientist pass
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hasibullah fathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasibullah fathi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/hasibullah fathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hasibullah fathi" height="30" width="40" /></a>
-<a href="https://kaggle.com/hasibullah fathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hasibullah fathi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hasibullah fathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/hasibullahfathi/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasibullah fathi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/hasibullah fathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/hasibullahfathi/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hasibullah fathi" height="30" width="40" /></a>
+<a href="https://kaggle.com/hasibullah fathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/hasibullahfathi/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hasibullah fathi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

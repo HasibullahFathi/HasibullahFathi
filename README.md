@@ -1,4 +1,3 @@
-## Hi there 👋
 ### Hi there 👋, Hasibullah Fathi
 #### Data Scientist/Practitioner
 ![Data Scientist/Practitioner](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
@@ -14,7 +13,6 @@ Skills: Data Cleaning/Data Visualization/Machine Learning/Deep Learning/Data Str
 
 
 
-<h1 align="center">Hi 👋, I'm Hasibullah</h1>
 <h3 align="center">A passionate Data Practitioner/Scientist from Germany.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasibullahfathi&label=Profile%20views&color=0e75b6&style=flat" alt="hasibullahfathi" /> </p>

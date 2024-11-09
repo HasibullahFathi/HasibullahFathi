@@ -1,17 +1,16 @@
-![Data Scientist/Practitioner]([https://github.com/HasibullahFathi/HasibullahFathi/blob/main/banner.webp](https://github.com/HasibullahFathi/HasibullahFathi/blob/main/DALL%C2%B7E%202024-11-09%2012.10.55%20-%20A%20professional%20banner%20with%20a%20dark%20gray%20background%20designed%20for%20a%20data%20scientist%20named%20_Hasibullah%20Fathi__%20with%20the%20following%20tags_%20%23Data%20Scientist%20%23Da.webp))
+![Data Scientist/Practitioner](https://raw.githubusercontent.com/HasibullahFathi/HasibullahFathi/refs/heads/main/DALL%C2%B7E%202024-11-09%2012.10.55%20-%20A%20professional%20banner%20with%20a%20dark%20gray%20background%20designed%20for%20a%20data%20scientist%20named%20_Hasibullah%20Fathi__%20with%20the%20following%20tags_%20%23Data%20Scientist%20%23Da.webp)
 
 # Hi there 👋, I'm Hasibullah Fathi  
 ### Data Scientist | Data Prictitioner | Full Stack Developer
 
 I’m a data scientist and full stack developer from Germany, passionate about transforming data into actionable insights and solving complex problems with machine learning and predictive analytics. I enjoy building impactful applications that bridge the gap between advanced analytics and real-world applications.
 
+Email: hasibullah.fathi@gmail.com
+
 ---
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/HasibullahFathi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hasibulla-fathi-156a80122/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app/)  
 
-
-
-<h3 align="left">Languages</h3>
 
 ### Programming Languages
 
@@ -45,14 +44,12 @@ I’m a data scientist and full stack developer from Germany, passionate about t
 ![Seaborn](https://img.shields.io/badge/Seaborn%20-%232bbcd4.svg?&style=for-the-badge&logo=seaborn&logoColor=FFFFFF)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=FFFFFF)
 
-#### APIs
-![Postman](https://img.shields.io/badge/Postman%20-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=FFFFFF)
-
-### Technologies/Tools
+### Technologies/Tools/APIs
 
 ![Figma](https://img.shields.io/badge/Figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/Linux%20-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=000000)
 ![Zapier](https://img.shields.io/badge/Zapier%20-%23FF4A00.svg?&style=for-the-badge&logo=zapier&logoColor=FFFFFF)
+![Postman](https://img.shields.io/badge/Postman%20-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=FFFFFF)
 
 ### Version Control
 
@@ -70,8 +67,7 @@ I’m a data scientist and full stack developer from Germany, passionate about t
 ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=FFFFFF)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=FFFFFF)
 
-
-
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasibullahfathi&show_icons=true&locale=en&layout=compact" alt="hasibullahfathi" /></p>
 

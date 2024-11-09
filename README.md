@@ -32,6 +32,7 @@ Email: hasibullah.fathi@gmail.com
 #### Backend
 ![Django](https://img.shields.io/badge/Django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=FFFFFF)
 ![Flask](https://img.shields.io/badge/Flask%20-%23000000.svg?&style=for-the-badge&logo=flask&logoColor=FFFFFF)
+![Streamlit](https://img.shields.io/badge/Streamlit%20-%23FF4F00.svg?&style=for-the-badge&logo=streamlit&logoColor=FFFFFF)
 ![Laravel](https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=FFFFFF)
 
 #### Testing

@@ -1,60 +1,77 @@
 ![Data Scientist/Practitioner](https://github.com/HasibullahFathi/HasibullahFathi/blob/main/banner.webp)
 
-### Hi there 👋, Hasibullah Fathi
-#### Data Scientist/Practitioner
+# Hi there 👋, I'm Hasibullah Fathi  
+### Data Scientist | Data Prictitioner | Full Stack Developer
 
-Hasibullah Fathi from Germany, I’m a full stack developer, data scientist passionate about turning data into actionable insights and solving complex problems through machine learning and predictive analytics. I enjoy experimenting with technologies to build impactful applications, and I love working on projects that bridge the gap between advanced analytics and real-world applications. When I’m not coding, you might find me exploring the latest advancements in AI or engaging with the tech community to expand my skills.
+I’m a data scientist and full stack developer from Germany, passionate about transforming data into actionable insights and solving complex problems with machine learning and predictive analytics. I enjoy building impactful applications that bridge the gap between advanced analytics and real-world applications.
 
-Skills: Data Cleaning/Data Visualization/Machine Learning/Deep Learning/Data Structure & Algorithm/Statistical Analysis/Agile Methodology
+---
 
-- 🔭 I’m currently working on Code Institute 
-- 🌱 I’m currently learning Predictive analytics advance level 
-- 💬 Ask me about ML, Deep learning ... 
-- 📫 How to reach me: hasibullah.fathi@gmail.com 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/HasibullahFathi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hasibulla-fathi-156a80122/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/questions/60166043/can-tf-keras-utils-get-file-be-used-to-load-local-zip-files)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/HasibullahFathi)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/HasibullahFathi)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/HasibullahFathi&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/HasibullahFathi/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/HasibullahFathi)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/HasibullahFathi)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/HasibullahFathi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hasibulla-fathi-156a80122/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app/)  
 
 
 
+<h3 align="left">Languages</h3>
+
+### Programming Languages
+
+![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python%20-%23004D7A.svg?&style=for-the-badge&logo=python&logoColor=ffdf76)
+![PHP](https://img.shields.io/badge/PHP%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=FFFFFF)
+![Sass](https://img.shields.io/badge/Sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=FFFFFF)
+
+### Frameworks/Libraries/APIs
+
+#### Frontend
+![Angular](https://img.shields.io/badge/Angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=FFFFFF)
+![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=FFFFFF)
+![Materialize](https://img.shields.io/badge/Materialize%20-%23EE6E73.svg?&style=for-the-badge&logo=material-design&logoColor=FFFFFF)
+![Vue.js](https://img.shields.io/badge/Vue.js%20-%234FC08D.svg?&style=for-the-badge&logo=vue-dot-js&logoColor=FFFFFF)
+
+#### Backend
+![Django](https://img.shields.io/badge/Django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=FFFFFF)
+![Flask](https://img.shields.io/badge/Flask%20-%23000000.svg?&style=for-the-badge&logo=flask&logoColor=FFFFFF)
+![Laravel](https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=FFFFFF)
+
+#### Testing
+![Jest](https://img.shields.io/badge/Jest%20-%23C21325.svg?&style=for-the-badge&logo=jest&logoColor=FFFFFF)
+
+#### Data Science/ML
+![OpenCV](https://img.shields.io/badge/OpenCV%20-%235C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=FFFFFF)
+![Pandas](https://img.shields.io/badge/Pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=FFFFFF)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn%20-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=FFFFFF)
+![Seaborn](https://img.shields.io/badge/Seaborn%20-%232bbcd4.svg?&style=for-the-badge&logo=seaborn&logoColor=FFFFFF)
+![TensorFlow](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=FFFFFF)
+
+#### APIs
+![Postman](https://img.shields.io/badge/Postman%20-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=FFFFFF)
+
+### Technologies/Tools
+
+![Figma](https://img.shields.io/badge/Figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/Linux%20-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=000000)
+![Zapier](https://img.shields.io/badge/Zapier%20-%23FF4A00.svg?&style=for-the-badge&logo=zapier&logoColor=FFFFFF)
+
+### Version Control
+
+![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=FFFFFF)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB%20-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/MySQL%20-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=FFFFFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
+![SQLite](https://img.shields.io/badge/SQLite%20-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=FFFFFF)
+
+### Hosting
+
+![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=FFFFFF)
+![AWS](https://img.shields.io/badge/Amazon%20AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=FFFFFF)
 
 
 
-
-
-<h3 align="center">A passionate Data Practitioner/Scientist from Germany.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasibullahfathi&label=Profile%20views&color=0e75b6&style=flat" alt="hasibullahfathi" /> </p>
-
-<p align="left"> <a href="https://github.com/hasibullahfathi/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasibullahfathi" alt="hasibullahfathi" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/HasibullahFathi](https://github.com/HasibullahFathi)
-
-- 📫 How to reach me **hasibullah.fathi@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hasibullah fathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/hasibullahfathi/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasibullah fathi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/hasibullah fathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/hasibullahfathi/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hasibullah fathi" height="30" width="40" /></a>
-<a href="https://kaggle.com/hasibullah fathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/hasibullahfathi/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hasibullah fathi" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasibullahfathi&show_icons=true&locale=en&layout=compact" alt="hasibullahfathi" /></p>
 

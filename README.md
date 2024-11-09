@@ -76,4 +76,3 @@ Email: hasibullah.fathi@gmail.com
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasibullahfathi&show_icons=true&locale=en" alt="hasibullahfathi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasibullahfathi&" alt="hasibullahfathi" /></p>
-

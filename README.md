@@ -1,4 +1,4 @@
-![Data Scientist/Practitioner](https://github.com/HasibullahFathi/HasibullahFathi/blob/main/banner.webp)
+![Data Scientist/Practitioner]([https://github.com/HasibullahFathi/HasibullahFathi/blob/main/banner.webp](https://github.com/HasibullahFathi/HasibullahFathi/blob/main/DALL%C2%B7E%202024-11-09%2012.10.55%20-%20A%20professional%20banner%20with%20a%20dark%20gray%20background%20designed%20for%20a%20data%20scientist%20named%20_Hasibullah%20Fathi__%20with%20the%20following%20tags_%20%23Data%20Scientist%20%23Da.webp))
 
 # Hi there 👋, I'm Hasibullah Fathi  
 ### Data Scientist | Data Prictitioner | Full Stack Developer

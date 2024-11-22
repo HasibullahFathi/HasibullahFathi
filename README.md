@@ -40,7 +40,6 @@ Email: hasibullah.fathi@gmail.com
 ![Jest](https://img.shields.io/badge/Jest%20-%23C21325.svg?&style=for-the-badge&logo=jest&logoColor=FFFFFF)
 
 #### Data Science/ML
-![OpenCV](https://img.shields.io/badge/OpenCV%20-%235C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=FFFFFF)
 ![Pandas](https://img.shields.io/badge/Pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=FFFFFF)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn%20-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=FFFFFF)
 ![Seaborn](https://img.shields.io/badge/Seaborn%20-%232bbcd4.svg?&style=for-the-badge&logo=seaborn&logoColor=FFFFFF)
@@ -59,7 +58,6 @@ Email: hasibullah.fathi@gmail.com
 
 ### Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB%20-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
 ![MySQL](https://img.shields.io/badge/MySQL%20-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=FFFFFF)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
 ![SQLite](https://img.shields.io/badge/SQLite%20-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=FFFFFF)

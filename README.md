@@ -1,9 +1,9 @@
 ![Data Scientist/Practitioner](https://raw.githubusercontent.com/HasibullahFathi/HasibullahFathi/refs/heads/main/DALL%C2%B7E%202024-11-09%2012.10.55%20-%20A%20professional%20banner%20with%20a%20dark%20gray%20background%20designed%20for%20a%20data%20scientist%20named%20_Hasibullah%20Fathi__%20with%20the%20following%20tags_%20%23Data%20Scientist%20%23Da.webp)
 
 # Hi there 👋, I'm Hasibullah Fathi  
-### Data Scientist | Data Prictitioner | Full Stack Developer
+### Data Scientist | Predictive Analytics Specialist | Full Stack Developer
 
-I’m a data scientist and full stack developer from Germany, passionate about transforming data into actionable insights and solving complex problems with machine learning and predictive analytics. I enjoy building impactful applications that bridge the gap between advanced analytics and real-world applications.
+I'm a data-driven software engineer with a strong foundation in full-stack development and a specialization in predictive analytics. Passionate about uncovering insights through machine learning and statistical modeling, I develop scalable, end-to-end solutions that turn complex data into meaningful outcomes. With experience in both frontend and backend technologies, I bridge the gap between advanced analytics and user-centric applications. Based in Germany, I’m always exploring new ways to apply data science to real-world challenges.
 
 Email: hasibullah.fathi@gmail.com
 

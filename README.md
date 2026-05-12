@@ -4,7 +4,7 @@
 I'm a data-driven software engineer with a strong foundation in full-stack development and a specialization in predictive analytics. Passionate about uncovering insights through machine learning and statistical modeling, I develop scalable, end-to-end solutions that turn complex data into meaningful outcomes. With experience in both frontend and backend technologies, I bridge the gap between advanced analytics and user-centric applications. Based in Germany, I’m always exploring new ways to apply data science to real-world challenges.
 
 📧 Email: hasibullah.fathi@gmail.com  
-🔗 [GitHub](https://github.com/HasibullahFathi) | [LinkedIn](https://www.linkedin.com/in/hasibulla-fathi-data-scientist/)
+🔗 [GitHub](https://github.com/HasibullahFathi) | [LinkedIn](https://www.linkedin.com/in/hasibullah-fathi-ai-engineer/)
 
 ---
 

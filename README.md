@@ -10,6 +10,7 @@ I'm a data-driven software engineer with a strong foundation in full-stack devel
 
 ### 🧑‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-%23004D7A.svg?&style=for-the-badge&logo=python&logoColor=ffdf76)
+![C#](https://img.shields.io/badge/C%23-%23512BD4.svg?&style=for-the-badge&logo=csharp&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
